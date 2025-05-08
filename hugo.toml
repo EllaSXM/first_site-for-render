@@ -1,0 +1,4 @@
+baseURL = 'https://ellasxm.github.io/hugo-test-pages/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
